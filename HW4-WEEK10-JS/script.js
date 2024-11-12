@@ -8,10 +8,10 @@ num3>=num1 == num3
 
 switch(num1){
     case num1:
-        alert('Ulken san:' + num1)
+        alert('En ulken san:' + num1)
     break;
     case num2:
-        alert('Ulken san:' + num2)
+        alert('En ulken san:' + num2)
     break;
     case num3:
         alert('En ulken san:' + num3)
