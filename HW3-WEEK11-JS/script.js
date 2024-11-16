@@ -1,11 +1,15 @@
-let san = +prompt('Studentter sanyn engiziniz:')
-let i = 1
-let sum = 0
+// let studentsany = +prompt('Student sanyn engiz')
+// let i = 1
+// let bagalarkosyndysy = 0 
 
-while (i <= san) {
-  let bagalary = +prompt(i + ' - studenttin bagasyn engyziniz')
-  sum = sum + bagalary
-  i++
-}
-let mani = sum / san
-alert('Studentterdin bagalarynyn ortasha mani: ' + mani)
+// while(i<=studentsany){
+//   let bagasy = +prompt(i + ' - studenttin bagasyn engiz')
+//   bagalarkosyndysy = bagalarkosyndysy + bagasy
+//   i++;
+// }
+// let mani = bagalarkosyndysy / studentsany
+// alert('Studentterdin ortalama bagasy' + mani)
+
+
+
+
