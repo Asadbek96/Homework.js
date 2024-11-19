@@ -19,3 +19,7 @@ while (i <= num) {
 }
 alert(`En kishi 5-ke bolinetin san: ${kishisan}`)
 alert(`En ulken 5-ke bolinetin san: ${ulkensan}`)
+
+
+
+
