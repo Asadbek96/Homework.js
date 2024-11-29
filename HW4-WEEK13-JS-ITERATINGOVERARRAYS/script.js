@@ -14,15 +14,14 @@
 // let bagalary = []
 // let sum = 0
 // let ortaqBaga = 0
-// let jogaryBaga = []
 // for(let i = 1; i <= studentSany; i++){
 //     let studentBagasy = +prompt(i + ' - Studenttin bagasy')
 //     bagalary.push(studentBagasy)
 //     ortaqBaga += studentBagasy / studentSany
-//     if(studentBagasy>=85){
-//         jogaryBaga.push(studentBagasy)
-//     }
 // }
+// let jogaryBaga = bagalary.filter(num => num > 85)
+
+
 // console.log('Engizizlgen bagalar: ' + bagalary);
 // console.log('Ortaq baga: ' + ortaqBaga);
 // console.log('85-ten jogary bagalar: ' + jogaryBaga);
