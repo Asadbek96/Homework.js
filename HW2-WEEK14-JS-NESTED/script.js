@@ -14,3 +14,7 @@ let songyAn = artists[0].songs[3]
 console.log(`${artists[0].name}'s last song: ${songyAn}`)
 
 console.log(artists[1].songs.filter(song => song.length <= 6))
+
+
+
+
