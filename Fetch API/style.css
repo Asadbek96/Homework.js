@@ -1,0 +1,20 @@
+.user{
+    border-radius: 12px;
+    background-color: rgb(242, 242, 242);
+    padding: 0px 20px;
+}
+.user:hover{
+    transform:translateY(-4px);
+    transition-duration: 0.3s;
+    box-shadow: 0px 4px 5px 3px lightgrey;
+    
+}
+.user-container{
+    margin: 0px 400px;
+    box-shadow: 0px 0px 8px 3px rgba(34, 60, 80, 0.2);
+    row-gap: 10px;
+    padding: 0px 20px;
+}
+h1{
+    color: rgb(61, 97, 255);
+}
